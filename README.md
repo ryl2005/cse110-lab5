@@ -2,7 +2,7 @@
 Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
 
-Ryan Lee and Ethan Pham 
+Ryan Lee
 
 
 1) No the entire message feature probably involves many other components so it is not a good fit for unit testing.
